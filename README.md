@@ -39,7 +39,7 @@ The dataset contains the following features:
 
 3. **Model Training and Evaluation:**
    - The dataset is split into training and testing sets.
-   - A Support Vector Machine (SVM) classifier with a linear kernel is used for prediction.
+   - All classification models are used for prediction.
    - The model is trained on the training data.
    - The model's accuracy is evaluated on the testing data using `accuracy_score`.
 
