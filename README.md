@@ -23,7 +23,7 @@ This notebook explores a loan approval prediction dataset, performs exploratory 
 
 The dataset contains information about loan applications, including demographic details, income, loan amount, credit history, and the final loan status (approved or rejected). The goal is to build a model that can predict the `Loan_Status` based on the other features.
 
-The dataset was loaded from the file `/content/drive/MyDrive/LoanApprovalPrediction.csv` and contains **598 entries (rows)** and **13 columns (features)**.
+The dataset contains **598 entries (rows)** and **13 columns (features)**.
 
 ## Exploratory Data Analysis
 
